@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/lgmoney/static/js/main.ef0e5ea4.chunk.js",
+    "main.js.map": "/lgmoney/static/js/main.ef0e5ea4.chunk.js.map",
+    "runtime-main.js": "/lgmoney/static/js/runtime-main.d627a000.js",
+    "runtime-main.js.map": "/lgmoney/static/js/runtime-main.d627a000.js.map",
+    "static/js/2.8ad6ddf0.chunk.js": "/lgmoney/static/js/2.8ad6ddf0.chunk.js",
+    "static/js/2.8ad6ddf0.chunk.js.map": "/lgmoney/static/js/2.8ad6ddf0.chunk.js.map",
+    "index.html": "/lgmoney/index.html",
+    "static/js/2.8ad6ddf0.chunk.js.LICENSE.txt": "/lgmoney/static/js/2.8ad6ddf0.chunk.js.LICENSE.txt",
+    "static/media/close.f62862c6.svg": "/lgmoney/static/media/close.f62862c6.svg",
+    "static/media/income.d58effe2.svg": "/lgmoney/static/media/income.d58effe2.svg",
+    "static/media/logo.614d71d1.svg": "/lgmoney/static/media/logo.614d71d1.svg",
+    "static/media/outcome.6eb96d30.svg": "/lgmoney/static/media/outcome.6eb96d30.svg",
+    "static/media/total.e90c2d1e.svg": "/lgmoney/static/media/total.e90c2d1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d627a000.js",
+    "static/js/2.8ad6ddf0.chunk.js",
+    "static/js/main.ef0e5ea4.chunk.js"
+  ]
+}
